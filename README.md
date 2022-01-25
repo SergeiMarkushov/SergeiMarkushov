@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergeiMarkushov
+- 👋 Hi, I’m Sergei
 - 👀 I’m interested in learing Java
 - 💞️ I’m looking to collaborate on educatiion
 - 📫 How to reach me s.markushov@icloud.com or WhatsApp +7(977)510-89-14
