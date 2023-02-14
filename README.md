@@ -12,12 +12,11 @@
 </div>
 
 ### 👨‍💻 About Me :
-
-- 👋 Hi, I’m Sergei
-- 👀 I’m interested in learing Java
-- 💞️ I’m looking to collaborate on education
-- 📫 How to reach me: s.markushov@icloud.com or WhatsApp +7(977)510-89-14
-- My OpenSea https://opensea.io/SeregaM
+I am a Junior BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+:red_circle:  My name is Serg <br>
+:red_circle:  email s.markushov@icloud.com <br>
+:red_circle:	WhatsApp +7(977)510-89-14  <br>
+:red_circle:	Telegram @Serega_Markus <br>
 
 ---
 
