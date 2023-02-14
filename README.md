@@ -4,12 +4,13 @@
 </div><br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/seregamarkush" />
-    <img src="https://img.shields.io/badge/LinkedIn-blue" width="120" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="50"/>
   </a>
   <a href="https://hh.ru/resume/fdffde6eff0b9e250a0039ed1f783357476e61" >
-    <img src="https://img.shields.io/badge/HH.ru-red" width="120" height="40"/>
+    <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" width="50" height="50"/>
   </a>
 </div>
+https://img.shields.io/badge/HH.ru-red
 
 ### 👨‍💻 About Me :
 I am a Junior BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
