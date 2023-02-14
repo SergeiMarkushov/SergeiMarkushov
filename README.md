@@ -22,16 +22,16 @@ I am a Junior BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" **alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" **alt="JS" width="40" height="40"/>
-  <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" title="RMQ" **alt="RMQ" width="120" height="60"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" title="hibernate" **alt="hibernate" width="120" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" **alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" title="RMQ" **alt="RMQ" width="120" height="60"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" title="hibernate" **alt="hibernate" width="120" height="60"/>&nbsp;
   
   
 </div>
