@@ -1,3 +1,7 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="100"/>
+</div>
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in learing Java
 - 💞️ I’m looking to collaborate on education
