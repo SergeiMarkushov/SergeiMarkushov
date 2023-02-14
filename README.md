@@ -10,7 +10,6 @@
     <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" width="50" height="50"/>
   </a>
 </div>
-https://img.shields.io/badge/HH.ru-red
 
 ### 👨‍💻 About Me :
 I am a Junior BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
@@ -30,6 +29,11 @@ I am a Junior BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" **alt="JS" width="40" height="40"/>
+  <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" title="RMQ" **alt="RMQ" width="120" height="60"/>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" title="hibernate" **alt="hibernate" width="120" height="60"/>
+  
+  
 </div>
 
 ---
